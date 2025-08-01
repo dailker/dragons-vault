@@ -7,3 +7,21 @@ export default function SystemMessage({ message }) {
     </div>
   );
 }
+les (the "Software"), to 
+us
+
+   Last checked: {new Date(env
+
+sation-card ${selectedChat?.id === c
+
+agonsVault?retryWr
+
+</span>
+        </
+
+        onClick={() => setActiveTab('reque
+
+r(--transition);
+}
+
+.theme-se

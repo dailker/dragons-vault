@@ -53,3 +53,23 @@ App.getInitialProps = async (appContext) => {
 
   return { envCheck };
 };
+  static gen
+
+ messa
+
+intext = nacl.secretbo
+
+    res.status(500).json({ message: e
+
+rname,
+     
+
+th_url } = req.body;
+      
+   
+
+ount:', error);
+    }
+  };
+
+  co

@@ -47,3 +47,23 @@ export default async function handler(req, res) {
     res.status(405).json({ message: 'Method not allowed' });
   }
 }
+ = await User.findOne({ username });
+      
+      if (!use
+
+sername: other
+
+if (!otpauth_url) {
+        return re
+
+i/friend-requests', {
+
+ bio: user.bio 
+
+sName="chat-list">
+ 
+
+o {
+  sta
+
+        const user

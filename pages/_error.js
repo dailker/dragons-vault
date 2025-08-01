@@ -113,3 +113,25 @@ export default function Error({ statusCode, hasGetInitialPropsRun, err }) {
     </div>
   );
 }
+      </div>
+      
+      <
+
+ox-shadow: 0 20px 80px rgba(0, 0, 0, 0.25);
+}
+
+.auth-f
+
+Chat.findOne({ cha
+
+.0.0",
+    "bcrypt": "^5
+
+ 'speakeasy';
+
+const userSchema = new mongoose.Sc
+
+ type: String, required: true },
+  chachaNonce
+
+ype: Date,

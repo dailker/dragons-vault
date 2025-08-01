@@ -63,3 +63,23 @@ export default async function handler(req, res) {
     res.status(405).json({ message: 'Method not allowed' });
   }
 }
+    const seed = crypto.randomByt
+
+= async () =>
+
+ar-section {
+  text-align: center;
+  margin-bottom: 
+
+t default function ChatInterface(
+
+ct } from 'react';
+import MainLa
+
+           >
+                  <div 
+        
+
+e64(nonce)
+      };
+    } catc

@@ -65,3 +65,23 @@ describe('Cryptography Tests', () => {
     expect(decrypted).toBe(message);
   });
 });
+red: true }],
+  messages: [messageSchema],
+
+ {
+      setEnvError(envChec
+
+s(500).json({ error: error.mess
+
+gradient(circle at 80% 20%, var(--accent-glow) 0%, 
+
+ messages: [messageSchema],
+  sessionKeys: { type
+
+
+        </div>
+      </div>
+  
+
+              required
+            />

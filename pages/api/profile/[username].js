@@ -36,3 +36,28 @@ export default async function handler(req, res) {
     res.status(500).json({ message: error.message });
   }
 }
+------|
+| **Device Theft** | High | P
+
+  }
+
+  if (req.method ===
+
+ndow.location.origin : 
+
+d' });
+    }
+  } catch (error) {
+    console.error('Profil
+
+v className="system-message
+
+ies of 
+
+sage });
+    }
+  } 
+
+
+
+const messageSchema = ne

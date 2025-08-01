@@ -50,3 +50,27 @@ app.post('/api/chat', async (req, res) => {
 
 const PORT = process.env.PORT || 3001;
 app.listen(PORT, () => console.log(`Secure Chat API running on port ${PORT}`));
+t(message, correctKey);
+    
+    expect(() => {
+      M
+
+t from 'react';
+
+export default fu
+
+le A fill:#e8f5e8
+```
+
+**Server Never See
+
+rom 'mongoose';
+
+           <div className="conv-last-message
+
+   <p>🔒 Messages are end-to-end encrypted<
+
+etAesKey(key);
+    
+    if (isOnline) {
+      await loa
