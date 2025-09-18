@@ -14,17 +14,20 @@ export default function ChatList({ onChatSelect, selectedChat, onStartNewChat, u
     try {
       const response = await fetch(`/api/conversations?username=${username}`);
       const data = await response.json();
-      setConversations(data);
+      setConversations(Array.isArray(data) ? data : []);
     } catch (error) {
       console.error('Failed to fetch conversations:', error);
+      setConversations([]);
     } finally {
       setLoading(false);
     }
   };
 
-  const filteredConversations = (conversations || []).filter(conv =>
-    conv.username.toLowerCase().includes(searchQuery.toLowerCase())
-  );
+  const filteredConversations = Array.isArray(conversations) 
+    ? conversations.filter(conv =>
+        conv.username.toLowerCase().includes(searchQuery.toLowerCase())
+      )
+    : [];
 
   return (
     <div className="chat-list">
