@@ -33,6 +33,18 @@ A military-grade encrypted chat application where **the server never sees your m
 - ⚡ **Ultra-Modern Interface**: Glassmorphism effects and smooth animations
 - 🌐 **Cross-Platform**: Works on any device with a web browser
 
+<table>
+  <tr>
+    <td><img src="screenshots/1.png" width="150"/></td>
+    <td><img src="screenshots/2.png" width="150"/></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/3.png" width="150"/></td>
+    <td><img src="screenshots/4.png" width="150"/></td>
+  </tr>
+</table>
+
+
 ## 🏗️ Architecture
 
 ```mermaid
