@@ -22,7 +22,7 @@ export default function ChatList({ onChatSelect, selectedChat, onStartNewChat, u
     }
   };
 
-  const filteredConversations = conversations.filter(conv =>
+  const filteredConversations = (conversations || []).filter(conv =>
     conv.username.toLowerCase().includes(searchQuery.toLowerCase())
   );
 
@@ -45,7 +45,12 @@ export default function ChatList({ onChatSelect, selectedChat, onStartNewChat, u
       </div>
       
       <div className="conversations">
-        {filteredConversations.length === 0 ? (
+        {loading ? (
+          <div className="no-conversations">
+            <div className="loading-spinner"></div>
+            <p>Loading conversations...</p>
+          </div>
+        ) : filteredConversations.length === 0 ? (
           <div className="no-conversations">
             <div className="no-conv-icon">💬</div>
             <p>No conversations yet</p>
