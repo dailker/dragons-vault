@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "pages/api/**/*.js": {
+      "maxDuration": 10
+    }
+  },
+  "env": {
+    "MONGO_ATLAS_URI": "@mongo-atlas-uri"
+  }
+}
