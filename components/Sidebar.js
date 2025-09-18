@@ -62,24 +62,3 @@ export default function Sidebar({ activeTab, setActiveTab, onProfileClick, onSet
     </div>
   );
 }
-leString()}
-              </p
-
-es', { keyPath: 'id',
-
-E)
-      .then((cache) => cache.addAll(urlsToCa
-
-s.env.MONGO
-
-llback,
-      cry
-
-In, setIsLoggedIn] = useState(false);
-
-  us
-
-   res.json({ s
-
-required: true },
-  chachaNonce: 

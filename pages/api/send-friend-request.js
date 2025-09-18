@@ -45,22 +45,3 @@ export default async function handler(req, res) {
     res.status(405).json({ message: 'Method not allowed' });
   }
 }
-on(messages);
-
- res.status(500).json({ message: 'User mod
-
-mongoose';
-
-// Use existing User model f
-
-.json({ sta
-
-: true }],
-  messages: [messageSchema],
-  sessionKeys:
-
-_URI=mongodb+srv://username:passwor
-
- 0;
-  padding: 1.25rem 1.5rem;
-  border-radius: va

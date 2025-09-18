@@ -33,30 +33,3 @@ export default function Home() {
 
   return <MainLayout username={userId} onLogout={handleLogout} />;
 }
-   errorCorrectionLevel: 'M'
-   
-
-./lib/storage';
-
-export default function Home()
-
- auto;
-  padding: 0.5rem;
-}
-
-.con
-
-export class OfflineQR {
-
-  static createQRCode(data) {
-
-  const user = await User.findOne({ username });
-     
-
-'
- 
-
-/h2>
-      </div>
-      
-      <div className="search-

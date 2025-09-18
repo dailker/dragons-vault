@@ -42,26 +42,3 @@ export default async function handler(req, res) {
     res.status(405).json({ message: 'Method not allowed' });
   }
 }
-
-    try {
-      const { chatI
-
-.save();
-
-      res.json({ success: true });
-    } catch (e
-
-ogical-assignment-operators/-/p
-
-enerateAESKey();
-    
-    const encrypted = MultiLayerC
-
-pt(encrypted, key);
-    
-    expect(decrypted).toBe(
-
-) {
-      this.checkInterval = set
-
-  test('Decryption fails with wrong

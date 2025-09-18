@@ -17,24 +17,3 @@ const chatSchema = new mongoose.Schema({
 });
 
 module.exports = mongoose.model('Chat', chatSchema);
-    onChatSelect={setSelect
-
-/span>
-        </div>
-      </div>
-    );
- 
-
-   <div className="system-messa
-
-age-text">{message}</span>
-    </div>
-  )
-
-essage: error.mess
-
-n = mongoose.models.Conversation || mongoose.model(
-
-utils": "^7.14.5"
-      },
-      "engine

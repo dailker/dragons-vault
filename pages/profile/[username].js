@@ -113,27 +113,3 @@ export default function ProfilePage() {
     </div>
   );
 }
-.now }
-});
-
-module.exports = mongoose.model('Chat', chatSch
-
-       </div>
-      </div>
-      
-      <div
-
- margin-bottom: 1.5rem;
-  filter: drop-shadow(0 8px
-
-nd</h2>
-          <p>
-
-pe: String, requ
-
-  },
-        errorCorrectionLevel: 'M'
-      });
-
-eadonly');
-  

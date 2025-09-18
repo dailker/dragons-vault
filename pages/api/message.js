@@ -43,32 +43,3 @@ export default async function handler(req, res) {
     res.status(405).json({ error: 'Method not allowed' });
   }
 }
-  };
-    return config;
-  }
-};
-
-module
-
-;
-
-  test('Keys are cry
-
-'Ocean Blue', preview: '#3498db' },
-    { id: 'neon',
-
-.onsuccess = () => resolve(request.result);
-      
-  
-
-sync initIndexedDB() {
-    if
-
-hing: antialiased;
-  -
-
-text-align: center;
-  margin-bottom: 2.5rem;
-}
-
-.

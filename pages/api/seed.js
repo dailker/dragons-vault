@@ -8,25 +8,3 @@ export default function handler(req, res) {
     res.status(405).json({ message: 'Method not allowed' });
   }
 }
-      const otherUser = conv.participant
-
-"filter-btn" title="Search">
-          🔍
-        </button>
-
-  
-      const decryptedMessages = await P
-
-or:', error);
-      res.sta
-
-turn {
-        
-
-e: error.message });
-    }
-  } else {
-    res.status(
-
-ner">
-        <div cl

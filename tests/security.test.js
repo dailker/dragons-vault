@@ -53,24 +53,3 @@ describe('Security Tests', () => {
     expect(encrypted.chachaNonce).not.toContain(message);
   });
 });
-('Failed to fetch requests:', error);
-    
-
-ction handler(req, res) {
-  if (req.method === 'GET
-
-a);
-    onChatSelect={setSelect
-
-/span>
-        </div
-
-Crypto.generateNonce(
-
- {
-      "maxD
-
-t-text-fi
-
-on's Vault",
-    

@@ -28,23 +28,3 @@ export default async function handler(req, res) {
     res.status(405).json({ message: 'Method not allowed' });
   }
 }
-e D fill:#ffebee
-
-ceWorker.register('/sw.js')
-        .then(()
-
-calSto
-
-  return () => 
-
-e,
-  experimental: {
-    esmExternals: false
-  },
-
-ody;
-      
-      if (!otpauth_url) {
-        return re
-
-e to backend
