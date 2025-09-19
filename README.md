@@ -1,5 +1,7 @@
 # 🐉 Dragon's Vault - Zero-Trust Encrypted Chat
 
+[![Deploy with Vercel](https://vercel.com/button.svg)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdailker%2Fdragons-vault&env=MONGO_ATLAS_URI,NEXTAUTH_SECRET&envDescription=MongoDB%20Atlas%20connection%20string%20and%20NextAuth%20secret%20are%20required&envLink=https%3A%2F%2Fwww.mongodb.com%2Fatlas%2Fdatabase&project-name=dragons-vault&repository-name=dragons-vault)
+
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/your-username/dragons-vault)

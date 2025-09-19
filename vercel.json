@@ -1,10 +1,31 @@
 {
+  "version": 2,
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/next.js"
+    }
+  ],
   "functions": {
     "pages/api/**/*.js": {
       "maxDuration": 10
     }
   },
   "env": {
-    "MONGO_ATLAS_URI": "@mongo-atlas-uri"
+    "MONGO_ATLAS_URI": {
+      "required": true,
+      "description": "MongoDB Atlas connection string for dragonsVault database",
+      "prompt": "mongodb+srv://<username>:<password>@cluster.mongodb.net/dragonsVault?retryWrites=true&w=majority"
+    },
+    "NEXTAUTH_SECRET": {
+      "required": true,
+      "description": "Secret key for NextAuth.js session encryption (could be raw but safe recommended)",
+      "prompt": "Generate with: openssl rand -base64 32"
+    },
+    "NEXTAUTH_URL": {
+      "required": true,
+      "description": "Base URL for NextAuth callbacks",
+      "default": "https://VERCEL_URL"
+    }
   }
 }
